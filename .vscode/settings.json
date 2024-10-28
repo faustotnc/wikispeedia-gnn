@@ -7,5 +7,5 @@
             "source.organizeImports": "explicit"
         }
     },
-    "cSpell.words": ["aminer", "mpnet", "narrex", "pagerank", "probs", "Spedia", "wikispeedia"]
+    "cSpell.words": ["aminer", "eigenvecs", "mpnet", "narrex", "pagerank", "probs", "Spedia", "vecs", "wikispeedia"]
 }
