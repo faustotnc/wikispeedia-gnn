@@ -166,3 +166,4 @@ cython_debug/
 /data/coherence_graph.pkl
 .DS_Store
 */*/wandb/
+/Models/**/*.ckpt
