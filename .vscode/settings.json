@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "autopep8.args": ["--max-line-length", "110", "--ignore", "E402"],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": "explicit"
+        }
+    },
+    "cSpell.words": ["aminer", "mpnet", "narrex", "pagerank", "probs", "Spedia", "wikispeedia"]
+}
