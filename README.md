@@ -1,2 +1,4 @@
 # wikispeedia-gnn
 WikiSpedia Difficulty Prediction Based on Semantic Space Narrative Connections
+
+Navigating document-based information networks, such as Wikipedia, poses unique challenges in understanding how humans explore information and make connections between distinct ideas. This project investigates the Wikispeedia game, where users navigate from a starting article to a target article using hyperlinks. Our goal is to model and predict the perceived difficulty of their extracted navigation paths. We explore the role of semantic coherence and graph structures in human navigation and evaluate their predictive power using state-of-the-art graph-based machine-learning models. Specifically, we experiment with Graph Neural Networks (GNNs) such as GraphSAGE, GAT, and Graph Transformers, alongside baseline models, to classify difficulty levels in both a multi-class and a binary task.
