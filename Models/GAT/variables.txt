@@ -1,0 +1,18 @@
+
+
+learning_rate   = 5e-3
+weight_decay    = 5e-4
+num_epochs      = 10 (highest performing selected)
+------
+num_gat_layers  = 2
+    -
+    input_channels  = 64
+    hidden_channels = 32
+    num_heads       = 4
+    -
+    input_channels  = 32 * 4
+    out_channels = 32
+    num_heads       = 4
+num_linear_mlp  = 1
+    layer_shape     = (32 * 4 + 1, 5)
+
